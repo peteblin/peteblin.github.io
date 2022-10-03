@@ -1,2 +1,1 @@
-# Everything Software
-Peter Blinstrubas
+# 
