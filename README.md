@@ -1,1 +1,2 @@
-# Everything Software peteblin.github.io
+# Everything Software
+Peter Blinstrubas
